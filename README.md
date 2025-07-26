@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
-<h3 align="center">A Passionate Java Developer From India</h3>
+<h3 align="center">A Passionate Java Full Stack Developer From India</h3>
 
 
 - 🌱 I’m currently learning **Spring,** **AI & ML,** **DevOps,** **and many more**
