@@ -26,7 +26,7 @@
 
 
 🎯 Want to know more about me?  
-👉 [Visit My Portfolio]([https://your-portfolio-link.com](https://personal-portfolio-eta-gules.vercel.app/))
+👉 [Visit My Portfolio] https://your-portfolio-link.com](https://personal-portfolio-eta-gules.vercel.app
 <!--
 **Manan10Sharma/Manan10Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
