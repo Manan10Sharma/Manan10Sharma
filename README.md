@@ -56,6 +56,12 @@
 
 ---
 
+## 🏆 Achievements & Highlights
+
+- 📄 Multiple certifications: Java, Python, MySQL, Git
+
+---
+
 ## ✨ Fun Fact
 
 > I debug better when listening to 90s Bollywood hits 🎵
