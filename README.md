@@ -46,16 +46,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Live Demo |
-|--------|------------|-----------|
-| **MailBot AI** | Java, Spring Boot, OpenAI, React | [Live](https://mailbot-ai.vercel.app) |
-| **CravZ Food Ordering App** | Java, Spring Boot, React, MySQL | [Live](#) |
-| **Employee Management** | Java, Spring Boot, Thymeleaf, MySQL | [Live](#) |
-
----
-
 ## 🏆 Achievements & Highlights
 
 - 📄 Multiple certifications: Java, Python, MySQL, Git
